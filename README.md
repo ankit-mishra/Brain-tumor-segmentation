@@ -34,6 +34,7 @@ To run the code, you first need to install the following prerequisites:
 * scipy
 * SimpleITK
 
+DataSet : https://www.kaggle.com/xxc025/unet-datasets#BRATS2017.zip
 ### How to run
 
 1. Execute first `extract_patches.py` to prepare the training and validation datasets.
